@@ -1,5 +1,5 @@
 #include<stdio.h>
 {
-  printf("c program");
+  printf("merging");
   getch();
 }
